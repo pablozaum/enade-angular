@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "enade-angular"
+    }
+  },
+  "defaultProject": "enade-angular",
+  "cli": {
+    "analytics": "de30c684-cb52-4cd5-b890-23baca01d521"
+  }
 }
